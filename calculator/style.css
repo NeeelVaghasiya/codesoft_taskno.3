@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* background-image: url(OIP.jpeg); */
+
+}
+
+.box{
+    border: 2px solid black;
+    margin-top: 25%;
+    padding: 20px 20px 20px 20px;
+    border-radius: 30px;
+    background-color: grey;
+}
+
+
+.btn1{
+    width: 65px;
+    padding: 5px 0px 5px 0px;
+    margin: 10px auto;
+    font-size: large;
+    border-radius: 10px;
+    background-color: silver;
+    
+}
+
+.btn2{
+    width: 65px;
+    padding: 5px 0px 5px 0px;
+    margin: 10px auto;
+    font-size: large;
+    border-radius: 10px;
+    background-color: silver;
+    
+}
+
+.btn1:hover{
+    background-color:  white;
+}
